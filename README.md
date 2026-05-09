@@ -31,6 +31,7 @@ bun run dev
 # Contribution
 
 ./public/data.jsonを編集することで聖地情報を編集することができます。
+
 追加、誤りの訂正などがありましたら、お気軽にIssueやPRでご報告ください。
 
 # License
