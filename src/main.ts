@@ -23,7 +23,7 @@ Alpine.data(
 
 		async init() {
 			try {
-				const res = await fetch("/data.json");
+				const res = await fetch("data.json");
 				const json = await res.json();
 				const result = Data.safeParse(json);
 				if (!result.success) {
