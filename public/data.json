@@ -1,14 +1,87 @@
 {
-	"title": "作品名 聖地巡礼マップ",
+	"title": "イキヅライブ聖地巡礼マップ",
 	"color": "#5594c3",
-	"about": "作品の舞台となった場所をまとめた聖地巡礼情報サイトです。ここに作品の説明を入れてください。",
-	"author": "@your_handle",
-	"links": ["https://example.com"],
+	"about": "イキヅライブ！ LOVELIVE! BLUEBIRDの聖地情報をまとめた非公式サイトです。",
+	"author": "@maril_dev",
+	"authorLink": "https://x.com/maril_dev",
+	"links": [
+		"https://www.lovelive-anime.jp/lovehigh/",
+		"https://www.youtube.com/@ikizulive",
+		"https://x.com/ikizulive_staff",
+		"https://gsm-app.com/lovelive/ikizulive-x-archive"
+	],
 	"spots": [
 		{
-			"name": "スポット名",
-			"lngLat": [139.6917, 35.6895],
-			"description": "このスポットの説明を入れてください。"
+			"name": "隅田川テラス(駒形橋・浅草駅寄り)",
+			"latLng": [35.71026505016891, 139.79819175727914],
+			"description": "イキヅライブといえばここ。ツイートやLLD、Dou-Da? DOING!などで複数回登場。言及されているツイート: https://x.com/polka_lion/status/1911929210081247380",
+			"district": "浅草・隅田川エリア"
+		},
+		{
+			"name": "駒形橋",
+			"latLng": [35.70828694172539, 139.79729129739437],
+			"description": "隅田川テラスとセットでよく登場する。ツイートやLLD、Dou-Da? DOING!などで複数回登場。言及されているツイート: https://x.com/polka_lion/status/1912796173137567744",
+			"district": "浅草・隅田川エリア"
+		},
+		{
+			"name": "東京ソラマチ",
+			"latLng": [35.71023916381996, 139.81157729898743],
+			"description": "浅草組の作戦会議で登場。言及されているツイート: https://x.com/polka_lion/status/1917499665714667983",
+			"district": "東京スカイツリー周辺"
+		},
+		{
+			"name": "伝法院通り",
+			"latLng": [35.7128042259377, 139.79685598705515],
+			"description": "駒形花火の実家の呉服屋がある。言及されているツイート: https://x.com/hanabistarmine/status/1920458160113852734",
+			"district": "浅草エリア"
+		},
+		{
+			"name": "浅草寺",
+			"latLng": [35.71477129905438, 139.796654574481],
+			"description": "浅草組が訪れた。浅草組のキャストも実際に訪れている。言及されているツイート: https://x.com/polka_lion/status/1932701081353527629",
+			"district": "浅草エリア"
+		},
+		{
+			"name": "肉の万世 アキバプレイス店",
+			"latLng": [35.701530987933566, 139.77118853568905],
+			"description": "五桐 玲と高橋ポルカがハンバーグを食べていたと思われる場所。言及されているツイート: https://x.com/G_Akky304250/status/1966395099845435863",
+			"district": "秋葉原"
+		},
+		{
+			"name": "越中島公園",
+			"latLng": [35.66866667626341, 139.7892453631888],
+			"description": "Dou-Da? DOING!で浅草組が衣装案を話し合っていた場所。",
+			"district": "隅田川エリア"
+		},
+		{
+			"name": "プラチナドン・キホーテ 白金台店",
+			"latLng": [35.6370137328231, 139.7243680122779],
+			"description": "プ！ラ！チ！ナ！ド！ン！キ！",
+			"district": "白金台"
+		},
+		{
+			"name": "OSAKAたこ焼マーケット",
+			"latLng": [34.703774399892474, 135.50009361142085],
+			"description": "Dou-Da? DOING!で調布のりこがたこ焼きをぶちまけていた場所。",
+			"district": "梅田エリア"
+		},
+		{
+			"name": "うめきた公園",
+			"latLng": [34.70387356051052, 135.49260682946797],
+			"description": "Dou-Da? DOING!で梅田組がビラ配りをしていた場所。",
+			"district": "梅田エリア"
+		},
+		{
+			"name": "天保山マーケットプレース",
+			"latLng": [34.656055883570545, 135.43012492975436],
+			"description": "天！保！山！マーケットプレース！",
+			"district": "大阪市港区"
+		},
+		{
+			"name": "えちぜん鉄道小舟渡駅",
+			"latLng": [36.075568566818646, 136.43367012162946],
+			"description": "Dou-Da? DOING!で調布のりこの背景として表示されていた駅。",
+			"district": "福井"
 		}
 	]
 }

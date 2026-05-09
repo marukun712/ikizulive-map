@@ -1,6 +1,6 @@
-# seichi-template
+# イキヅライブ聖地巡礼マップ
 
-聖地巡礼情報サイト用のテンプレートです。
+イキヅライブ！ LOVELIVE! BLUEBIRDの聖地情報をまとめた非公式サイトです。
 
 # Requirements
 
@@ -22,29 +22,16 @@ direnv allow
 bun i
 ```
 
-# Usage
+開発サーバーを起動します。
 
-./public/data.jsonを編集して使用します。
-
-```json
-{
-	"title": "作品名 聖地巡礼マップ",
-	"color": "#5594c3",
-	"about": "作品の舞台となった場所をまとめた聖地巡礼情報サイトです。ここに作品の説明を入れてください。",
-	"author": "@your_handle",
-	"links": ["https://example.com"],
-	"spots": [
-		{
-			"name": "スポット名",
-			"lngLat": [139.6917, 35.6895],
-			"description": "このスポットの説明を入れてください。"
-		}
-	]
-}
+```bash
+bun run dev
 ```
 
-spotsにはスポット名、概要、緯度経度、画像を添付することができます。
-lngLatには、[軽度, 緯度]の順に入力してください。
+# Contribution
+
+./public/data.jsonを編集することで聖地情報を編集することができます。
+追加、誤りの訂正などがありましたら、お気軽にIssueやPRでご報告ください。
 
 # License
 
