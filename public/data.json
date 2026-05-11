@@ -15,13 +15,15 @@
 			"name": "隅田川テラス(駒形橋・浅草駅寄り)",
 			"latLng": [35.71026505016891, 139.79819175727914],
 			"description": "イキヅライブといえばここ。ツイートやLLD、Dou-Da? DOING!などで複数回登場。言及されているツイート: https://x.com/polka_lion/status/1911929210081247380",
-			"district": "浅草・隅田川エリア"
+			"district": "浅草・隅田川エリア",
+			"images": ["images/0.png", "images/1.png"]
 		},
 		{
 			"name": "駒形橋",
 			"latLng": [35.70828694172539, 139.79729129739437],
 			"description": "隅田川テラスとセットでよく登場する。ツイートやLLD、Dou-Da? DOING!などで複数回登場。言及されているツイート: https://x.com/polka_lion/status/1912796173137567744",
-			"district": "浅草・隅田川エリア"
+			"district": "浅草・隅田川エリア",
+			"images": ["images/2.png"]
 		},
 		{
 			"name": "東京ソラマチ",
@@ -33,7 +35,8 @@
 			"name": "伝法院通り",
 			"latLng": [35.7128042259377, 139.79685598705515],
 			"description": "駒形花火の実家の呉服屋がある。言及されているツイート: https://x.com/hanabistarmine/status/1920458160113852734",
-			"district": "浅草エリア"
+			"district": "浅草エリア",
+			"images": ["images/3.png", "images/4.png"]
 		},
 		{
 			"name": "浅草寺",
@@ -75,7 +78,8 @@
 			"name": "天保山マーケットプレース",
 			"latLng": [34.656055883570545, 135.43012492975436],
 			"description": "天！保！山！マーケットプレース！",
-			"district": "大阪市港区"
+			"district": "大阪市港区",
+			"images": ["images/5.png"]
 		},
 		{
 			"name": "えちぜん鉄道小舟渡駅",
